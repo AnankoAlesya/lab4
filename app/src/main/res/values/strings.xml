@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">lab4</string>
+    <string name="app_name">Загадка</string>
     <string name="msg_show_str">Отгадай!</string>
     <string name="hint_show_str">Задумано двузначное число.</string>
     <string name="guess_str">Отгадать</string>

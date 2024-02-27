@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">lab4</string>
+    <string name="app_name">Загадка</string>
     <string name="msg_show_str">Адгадай!</string>
     <string name="hint_show_str">Загадан двухзначны лік.</string>
     <string name="guess_str">Адгадаць</string>
